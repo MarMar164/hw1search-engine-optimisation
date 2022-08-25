@@ -1,7 +1,5 @@
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
 }
 
 body {
@@ -24,7 +22,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header div main nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +30,11 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header div main nav {
     list-style-type: none;
 }
 
-header div ul li {
+header div ul li main nav {
     display: inline-block;
     margin-left: 25px;
 }
