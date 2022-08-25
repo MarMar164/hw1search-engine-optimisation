@@ -37,7 +37,7 @@ header div nav ul main section aside {
     list-style-type: none;
 }
 
-header div nav ul li main section aside {
+header,div,nav,ul,li,main,section,aside {
     display: inline-block;
     margin-left: 25px;
 }
